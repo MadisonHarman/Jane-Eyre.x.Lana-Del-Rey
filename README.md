@@ -4,9 +4,16 @@ Whilst reading Charlotte Brontë’s novel, Jane Eyre, I noticed a prominent con
 
 ## Demo
 https://madisonharman.github.io/Jane-Eyre.x.Lana-Del-Rey/ 
+
 ![Screen Shot 2024-04-22 at 2 33 59 PM](https://github.com/MadisonHarman/Jane-Eyre.x.Lana-Del-Rey/assets/146497226/e72d4125-cf8a-408c-bf43-9de392db5a45)
 
 ## Credits
-Website Template: https://github.com/yenchiah/project-website-template 
+Website Template - https://github.com/yenchiah/project-website-template 
 
-Jane Eyre PDF: https://www.ucm.es/data/cont/docs/119-2014-04-09-Jane%20Eyre.pdf 
+Jane Eyre (PDF): Charlotte Brontë - https://www.ucm.es/data/cont/docs/119-2014-04-09-Jane%20Eyre.pdf 
+
+Desire in Lana Del Rey: Per Bjørnar Grande - https://www.jstor.org/stable/10.14321/j.ctv11vcdwg.9
+
+"Sympathy" in Jane Eyre: Lara Freeburg Kees - https://www.jstor.org/stable/3844619
+
+In Defense of Jane Eyre: Arnold Shapiro - https://www.jstor.org/stable/449473
