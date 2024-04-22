@@ -2,16 +2,6 @@
   width: 240px;
 }
 
-.custom-button {
-    margin-top: 10px; /* Adjust the top margin to create space */
-    /* or */
-    margin-bottom: 10px; /* Adjust the bottom margin to create space */
-    /* or */
-    margin-right: 10px; /* Adjust the right margin to create space */
-    /* or */
-    margin-left: 5px; /* Adjust the left margin to create space */
-}
-
 .custom-textbox {
   width: 240px;
 }
