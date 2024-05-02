@@ -1,6 +1,7 @@
 # HNRS 2030 Un-Essay
 ## Creative Process
-•	How does your project connect to the text/theme you've chosen, and what elements of that text/theme does your project represent/explore/develop?/n 
+•	How does your project connect to the text/theme you've chosen, and what elements of that text/theme does your project represent/explore/develop?
+
   Whilst reading Charlotte Brontë’s novel, Jane Eyre, I noticed a prominent connection between Jane Eyre and Mr. Rochester's complex relationship and underlying themes in the singer-songwriter Lana Del Rey's songs. With both portraying romance as having their "ups" and "downs,” I want to explore one overarching theme in Jane Eyre that the ability to overcome one’s own virtues is a true sentiment of unwavering love through not only chronologically describing Jane and Rochester’s relationship but comparing each instance with a song from Lana Del Rey. When noting the context of each song, we can generate conclusions as to how romantic relationships not only influenced Lana, but Jane and Rochester as well, which is important when illustrating how romance in the Western world impacts different individuals. 
 
 •	What decisions did you make in creating the project, and why? (e.g., why did you decide on this specific genre, form, and/or medium? Why this text/theme? Why this relationship between your project and the source material?) 
